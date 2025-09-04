@@ -22,6 +22,7 @@ public class Main {
             }
         }
 
-        System.out.println(dp[arr1.length][arr2.length]); // LCS 길이 출력
+        System.out.println(dp[arr1.length][arr2.length]); 
     }
 }
+
